@@ -10,10 +10,6 @@ Utilizes NLP for text preprocessing, tokenization, and vectorization of course d
 Implements cosine similarity to measure the similarity between course descriptions or user queries, 
 recommending courses with the highest similarity scores.
 
-**User Interface:** 
-Provides a simple user interface (UI) or API endpoint for users to input preferences or queries and 
-receive personalized course recommendations.
-
 **Scalability:** 
 Designed to handle large datasets of courses and user interactions efficiently, ensuring scalability as the 
 number of courses and users grows.
